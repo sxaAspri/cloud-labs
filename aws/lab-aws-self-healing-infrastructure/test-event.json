@@ -1,0 +1,12 @@
+{
+  "detail": {
+    "type": "UnauthorizedAccess:EC2/SSHBruteForce",
+    "severity": 8,
+    "region": "us-east-1",
+    "resource": {
+      "instanceDetails": {
+        "instanceId": "i-0f9112c27cdceccaf"
+      }
+    }
+  }
+}
