@@ -1,5 +1,12 @@
 # 🛡️ Self-Healing AWS Security Lab
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Cloud%20Security%20Lab-blue?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![IaC](https://img.shields.io/badge/IaC-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Services](https://img.shields.io/badge/Services-GuardDuty%20%7C%20Lambda%20%7C%20EC2-orange?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Automated%20Incident%20Response-red?style=flat-square)
+
 A secure and self-healing infrastructure on AWS. When Amazon GuardDuty detects a threat, the system automatically terminates the compromised EC2 instance and replaces it with a clean one launched from a preconfigured AMI.
 
 ## 🏗️ Architecture

@@ -1,5 +1,12 @@
 # 🔐 AWS Threat Detection & Automated Response Lab
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Cloud%20Security%20Lab-blue?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Services](https://img.shields.io/badge/Services-GuardDuty%20%7C%20Lambda%20%7C%20EventBridge-orange?style=flat-square)
+![IaC](https://img.shields.io/badge/IaC-None%20%28Console%29-lightgrey?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Blue%20Team%20%7C%20SOC%20Automation-purple?style=flat-square)
+
 ## Overview
 
 This lab demonstrates the implementation of a **cloud-native security monitoring system** on Amazon Web Services, capable of detecting suspicious activity, generating automated alerts, and executing response actions — all without human intervention.
