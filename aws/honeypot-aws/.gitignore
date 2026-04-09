@@ -1,0 +1,14 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfplan
+
+# Lambda zip generado
+lambda/analyzer.zip
+
+# Credenciales
+*.pem
+*.key
+.env
