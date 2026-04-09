@@ -19,7 +19,7 @@ variable "environment" {
 variable "my_ip" {
   description = "Your public IP in CIDR notation for SSH access to bastion"
   type        = string
-  default     = "186.30.37.36/32"
+  default     = "xxxxxxxxxxxxx"
 }
 
 locals {
